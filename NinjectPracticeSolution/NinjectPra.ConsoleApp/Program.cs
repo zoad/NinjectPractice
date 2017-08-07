@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace NinjectPra.ConsoleApp
 {
@@ -6,9 +10,8 @@ namespace NinjectPra.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ninject not yet added.");
-            Console.WriteLine("Taking some time.");
-
+            Console.WriteLine("Ninject not  yet added.");
+             Console.WriteLine("Why?");
         }
     }
 }
