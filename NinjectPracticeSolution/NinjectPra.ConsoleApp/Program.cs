@@ -10,7 +10,7 @@ namespace NinjectPra.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ninject not  yet added.");
+            Console.WriteLine("Ninject not yet added.");
         }
     }
 }
